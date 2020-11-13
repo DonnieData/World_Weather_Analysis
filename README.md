@@ -9,15 +9,15 @@ Utilizing python modules and API's to retrieve and analyze data to provide real-
 ## Overview 
 Creating python script for a hypothetical betaApp meant to provide hotel/lodging suggestions for a company based on user_end provided criteria.
 
-<u>[Weather_Database](https://github.com/DonnieData/World_Weather_Analysis/tree/main/Weather_Database)</u>
+[Weather_Database](https://github.com/DonnieData/World_Weather_Analysis/tree/main/Weather_Database)
 - The [numpy module](https://github.com/numpy/numpy) was used to generate 2,000 latitudes and longitude combinations 
 - The [Citypy](https://github.com/wingchen/citipy) module to get the nearest city of latitude/longitude combination 
 - The OpenWeatherMap API to retrieve up-to-date weather data for the provided cities 
 
-<u>[Vacation_Search](https://github.com/DonnieData/World_Weather_Analysis/tree/main/Vacation_Search)</u>
+[Vacation_Search](https://github.com/DonnieData/World_Weather_Analysis/tree/main/Vacation_Search)
 - The weather data from Weather_Database is parsed, formatted, and visualized with Google Maps API's.
 - The focus of these visualizations are markers and up to date pop-up marker information displayed by category. 
 
-<u>[Vacation_Itinerary](https://github.com/DonnieData/World_Weather_Analysis/tree/main/Vacation_Itinerary)</u>
+[Vacation_Itinerary](https://github.com/DonnieData/World_Weather_Analysis/tree/main/Vacation_Itinerary)
 - The same data from Vacation_Search is further filtered down by a "trip/itinerary" criteria. 
 - This data is then visualized using Google's api. 
