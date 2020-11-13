@@ -10,8 +10,8 @@ Utilizing python modules and API's to retrieve and analyze data to provide real-
 Creating python script for a hypothetical betaApp meant to provide hotel/lodging suggestions for a company based on user_end provided criteria.
 
 [Weather_Database](https://github.com/DonnieData/World_Weather_Analysis/tree/main/Weather_Database)
-- the pytohn [numpy module](https://github.com/numpy/numpy) was used to generate 2,000 latitudes and longitude combinations 
-- [Citypy](https://github.com/wingchen/citipy) to get the nearest city of latitude/longitude combination 
+- The [numpy module](https://github.com/numpy/numpy) was used to generate 2,000 latitudes and longitude combinations 
+- The [Citypy](https://github.com/wingchen/citipy) module to get the nearest city of latitude/longitude combination 
 - OpenWeatherMap - to retrieve up-to-date weather data for the provided cities 
 
 [Vacation_Search](https://github.com/DonnieData/World_Weather_Analysis/tree/main/Vacation_Search)
