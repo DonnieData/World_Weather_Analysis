@@ -12,7 +12,7 @@ Creating python script for a hypothetical betaApp meant to provide hotel/lodging
 [Weather_Database](https://github.com/DonnieData/World_Weather_Analysis/tree/main/Weather_Database)
 - The [numpy module](https://github.com/numpy/numpy) was used to generate 2,000 latitudes and longitude combinations 
 - The [Citypy](https://github.com/wingchen/citipy) module to get the nearest city of latitude/longitude combination 
-- OpenWeatherMap - to retrieve up-to-date weather data for the provided cities 
+- The OpenWeatherMap API to retrieve up-to-date weather data for the provided cities 
 
 [Vacation_Search](https://github.com/DonnieData/World_Weather_Analysis/tree/main/Vacation_Search)
 - The weather data from Weather_Database is parsed, formatted, and visualized with Google Maps API's.
